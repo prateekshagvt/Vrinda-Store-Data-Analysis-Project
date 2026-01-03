@@ -1,3 +1,4 @@
+<img width="1064" height="459" alt="image" src="https://github.com/user-attachments/assets/c04ef816-5b7e-4307-b522-4eb802d6557b" />
 
 # VRINDA STORE SALES ANALYSIS
 
